@@ -1,0 +1,51 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Robotics and AR",
+    "home_page_url": "https://www.roboticsandar.com/",
+    "feed_url": "https://www.roboticsandar.com/feed.json",
+    "description": "Get latest news , update on next generation technology \"Robotics and Augmented Reality\". ",
+    "items": [
+        {
+            "id": "https://www.roboticsandar.com/robots-you-must-know-if-you-are-in-the-field-of-robotics/",
+            "url": "https://www.roboticsandar.com/robots-you-must-know-if-you-are-in-the-field-of-robotics/",
+            "title": "Robots you must know if you are in the field of robotics",
+            "date_modified": "2020-12-19T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.roboticsandar.com/visual-slam-tutorials-all-you-need-to-know-about-visual-slam/",
+            "url": "https://www.roboticsandar.com/visual-slam-tutorials-all-you-need-to-know-about-visual-slam/",
+            "title": "Visual SLAM tutorials | All you need to know about visual slam",
+            "date_modified": "2020-10-22T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.roboticsandar.com/an-ymal-autonomous-legged-robot-from-eth-zurich/",
+            "url": "https://www.roboticsandar.com/an-ymal-autonomous-legged-robot-from-eth-zurich/",
+            "title": "ANYmal Autonomous Legged Robot from ETH zurich",
+            "date_modified": "2020-10-20T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.roboticsandar.com/what-s-new-in-ar-kit-4/",
+            "url": "https://www.roboticsandar.com/what-s-new-in-ar-kit-4/",
+            "title": "What’s New in ARKit 4?",
+            "date_modified": "2020-10-19T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.roboticsandar.com/new-virtual-reality-software-allows-scientists-to-walk-inside-cells/",
+            "url": "https://www.roboticsandar.com/new-virtual-reality-software-allows-scientists-to-walk-inside-cells/",
+            "title": "New virtual reality software allows scientists to ‘walk’ inside cells",
+            "date_modified": "2020-01-07T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.roboticsandar.com/robotics/",
+            "url": "https://www.roboticsandar.com/robotics/",
+            "title": "Robotics",
+            "date_modified": "2019-02-06T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.roboticsandar.com/the-hierarchical-localization-toolbox/",
+            "url": "https://www.roboticsandar.com/the-hierarchical-localization-toolbox/",
+            "title": "The hierarchical localization toolbox",
+            "date_modified": "2019-01-07T00:00:00.000Z"
+        }
+    ]
+}

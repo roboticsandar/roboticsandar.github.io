@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.roboticsandar.com/</id>
+    <title>Robotics and AR</title>
+    <updated>2020-12-26T09:24:24.340Z</updated>
+    <generator>Gridsome Feed Plugin</generator>
+    <link rel="alternate" href="https://www.roboticsandar.com/"/>
+    <link rel="self" href="https://www.roboticsandar.com/feed.atom"/>
+    <subtitle>Get latest news , update on next generation technology "Robotics and Augmented Reality". </subtitle>
+    <entry>
+        <title type="html"><![CDATA[Robots you must know if you are in the field of robotics]]></title>
+        <id>https://www.roboticsandar.com/robots-you-must-know-if-you-are-in-the-field-of-robotics/</id>
+        <link href="https://www.roboticsandar.com/robots-you-must-know-if-you-are-in-the-field-of-robotics/"/>
+        <updated>2020-12-19T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual SLAM tutorials | All you need to know about visual slam]]></title>
+        <id>https://www.roboticsandar.com/visual-slam-tutorials-all-you-need-to-know-about-visual-slam/</id>
+        <link href="https://www.roboticsandar.com/visual-slam-tutorials-all-you-need-to-know-about-visual-slam/"/>
+        <updated>2020-10-22T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ANYmal Autonomous Legged Robot from ETH zurich]]></title>
+        <id>https://www.roboticsandar.com/an-ymal-autonomous-legged-robot-from-eth-zurich/</id>
+        <link href="https://www.roboticsandar.com/an-ymal-autonomous-legged-robot-from-eth-zurich/"/>
+        <updated>2020-10-20T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in ARKit 4?]]></title>
+        <id>https://www.roboticsandar.com/what-s-new-in-ar-kit-4/</id>
+        <link href="https://www.roboticsandar.com/what-s-new-in-ar-kit-4/"/>
+        <updated>2020-10-19T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New virtual reality software allows scientists to ‘walk’ inside cells]]></title>
+        <id>https://www.roboticsandar.com/new-virtual-reality-software-allows-scientists-to-walk-inside-cells/</id>
+        <link href="https://www.roboticsandar.com/new-virtual-reality-software-allows-scientists-to-walk-inside-cells/"/>
+        <updated>2020-01-07T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robotics]]></title>
+        <id>https://www.roboticsandar.com/robotics/</id>
+        <link href="https://www.roboticsandar.com/robotics/"/>
+        <updated>2019-02-06T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The hierarchical localization toolbox]]></title>
+        <id>https://www.roboticsandar.com/the-hierarchical-localization-toolbox/</id>
+        <link href="https://www.roboticsandar.com/the-hierarchical-localization-toolbox/"/>
+        <updated>2019-01-07T00:00:00.000Z</updated>
+    </entry>
+</feed>
